@@ -1,0 +1,13 @@
+/*SECTION 1*/
+.nav{
+  display:flex;
+  text-align: center;
+}
+.container {
+  background-image: url('pics.jpg');
+  background-size: cover;
+  background-position: center center;
+  height:100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+}
